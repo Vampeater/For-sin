@@ -1,0 +1,18 @@
+body{
+    background-color: black;
+}
+center{
+    font-size: 50px;
+    color: white;
+    
+}
+h2{
+    text-align: center;
+    color: white;
+}
+a{
+    margin-left: 650px;
+    color: rgb(255, 0, 119);
+    text-underline-offset: 100000px;
+    font-family: Bradley Hand, cursive;;
+}

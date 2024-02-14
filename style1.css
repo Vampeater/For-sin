@@ -1,0 +1,45 @@
+body{
+    background-color: palevioletred;
+}
+p{
+    font-size: 20px;
+}
+
+.no{
+    padding-left: 450px;
+    font-size: 20px;
+}
+.yes{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    font-size: 18px;
+    border-radius: 12px;
+    padding: 12px;
+    margin-left: 450px;
+    background-color: #f53bad;
+    font-family: Bradley Hand, cursive;;
+}
+.yes:hover{
+    background-color: rgb(216, 112, 147);
+    letter-spacing: 3px;
+    transition: 0.6s;
+    font-family: Bradley Hand, cursive;;
+}
+.no{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    font-size: 18px;
+    border-radius: 12px;
+    padding: 12px;
+    margin-left: 450px;
+    background-color: #f53bad;
+    font-family: Bradley Hand, cursive;;
+}
+.no:hover{
+    background-color:rgb(216, 112, 147);
+    letter-spacing: 3px;
+    transition: 0.6s;
+    font-family: Bradley Hand, cursive;;
+}
